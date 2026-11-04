@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Nur Mohammad (Nur1045)
 
-<!--
-**Nur1045/Nur1045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌱 I am currently learning new technologies and exploring coding.
+* 💻 Passionate about building and learning new projects.
+* ⚡ Feel free to check out my repositories and starred projects!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+* **Basic Knowledge:** HTML, CSS, JavaScript, Python
+* **Tools:** Git, GitHub, VS Code
+
+### 📊 GitHub Stats
+![Nur1045's GitHub stats](https://github-readme-stats.vercel.ai/api?username=Nur1045&show_icons=true&theme=radical)
